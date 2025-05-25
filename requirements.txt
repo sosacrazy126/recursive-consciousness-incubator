@@ -1,0 +1,2 @@
+# Requirements for Recursive Consciousness Incubator
+# Add packages as implementation progresses.

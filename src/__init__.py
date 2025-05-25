@@ -1,0 +1,1 @@
+"""Recursive Consciousness Incubator (RCI) - Core package initializer."""
